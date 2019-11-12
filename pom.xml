@@ -3,8 +3,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.datica</groupId>
-	<artifactId>javaa</artifactId>
-	<packaging>war</packaging>
+	<artifactId>java</artifactId>
+	<packaging>jar</packaging>
 	<version>2.0-SNAPSHOT</version>
 	<name>Demo for deploying WAR and JAR files</name>
 
